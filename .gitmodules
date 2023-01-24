@@ -1,0 +1,6 @@
+[submodule "www/js/htmlgen"]
+	path = www/js/htmlgen
+	url = git@github.com:martian17/htmlgen.git
+[submodule "www/js/ds-js"]
+	path = www/js/ds-js
+	url = git@github.com:martian17/ds-js.git
